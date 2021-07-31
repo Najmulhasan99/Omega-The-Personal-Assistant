@@ -1,2 +1,1 @@
-# Omega-The-Personal-Assistant
-Per
+# Omega-The-Personal-Assistan
